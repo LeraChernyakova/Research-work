@@ -1,2 +1,2 @@
-# Научно-исследовательская практика. 6 семестр. МО ЭВМ
+# Научно-исследовательская практика
 Обзор статьи _"Defending ChatGPT against Jailbreak Attack via Self-Reminder"_
